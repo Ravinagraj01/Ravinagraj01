@@ -50,7 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravi-n&show_icons=true&theme=monokai&hide_border=true" alt="Ravi's GitHub Stats" width="400"/>
-  <img src="https://streak-stats.demolab.com?user=ravi-n&theme=monokai&hide_border=true" alt="GitHub Streak" width="400"/>
 </p>
 
 ---
@@ -73,10 +72,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/ravi-n/ravi-n/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
-</p>
 
 <p align="center">
   <em>Building the future, one line of code at a time. 🚀</em>
