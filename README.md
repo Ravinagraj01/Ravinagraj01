@@ -1,66 +1,87 @@
-<h1 align="center">Hi 👋, I'm Ravi N</h1>
-<h3 align="center">Java & MERN Stack Developer | AI/ML Enthusiast</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif" alt="Tech Matrix" width="300"/>
+</p>
+
+<h1 align="center">🚀 Greetings, I'm Ravi N! 👨‍💻</h1>
+<h3 align="center">Crafting Code with Java & MERN | Exploring the AI Frontier</h3>
 
 ---
 
-🔭 I’m currently working on:
-- 🚀 Improving **Swatchh Dashboard 2.0**
-- 🧠 Learning **AI/ML** and exploring **DevOps**
+### 🌌 My Coding Universe
 
-🌱 I’m currently learning:
-- Machine Learning & Deep Learning
-- CI/CD pipelines and Docker basics
+🔧 **Current Missions**:
+- 🛠️ Upgrading **Swatchh Dashboard 2.0** to revolutionize waste management
+- 🤖 Diving deep into **AI/ML** and mastering **DevOps** workflows
 
-💼 Tools I Use:
-- 🧪 Postman & Git
-- 💻 VS Code, IntelliJ IDEA
-- 🐧 Linux terminal wizardry
+📚 **Knowledge Quest**:
+- 🧠 Machine Learning & Deep Learning algorithms
+- ⚙️ CI/CD pipelines and Docker orchestration
 
----
-
-### 📌 Featured Projects
-
-- 📊 [**Swatchh Dashboard 2.0**](https://github.com/ravi-n/Swatchh_Dashboard_2.0) – Smart waste management dashboard built with JavaScript
-- 📚 [**Voyage_DBMS**](https://github.com/ravi-n/Voyage_DBMS) – Database project using PHP & MySQL
-- 🛍️ [**bookStore-App**](https://github.com/ravi-n/bookStore-App) – JavaScript-powered e-commerce site
-- 🤖 [**AI Trading Chat Bot**](https://github.com/ravi-n/AI-Trading-Chat-Bot) – Experimental AI chatbot for stock market insights
-- 🌍 [**Travel Journal**](https://github.com/ravi-n/Travel-Journal) – A minimalist journal app to log your travel stories
+🛠️ **Tech Arsenal**:
+- 🧪 Postman, Git, VS Code, IntelliJ IDEA
+- 🐧 Linux command-line sorcery
 
 ---
 
-### 🛠️ Languages & Tools
+### 🌟 Stellar Projects
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+- 🌍 [**Swatchh Dashboard 2.0**](https://github.com/ravi-n/Swatchh_Dashboard_2.0) – A smart, JS-powered waste management dashboard
+- 📊 [**Voyage_DBMS**](https://github.com/ravi-n/Voyage_DBMS) – Robust database system built with PHP & MySQL
+- 🛒 [**bookStore-App**](https://github.com/ravi-n/bookStore-App) – Dynamic e-commerce platform using JavaScript
+- 🤖 [**AI Trading Chat Bot**](https://github.com/ravi-n/AI-Trading-Chat-Bot) – AI-driven stock market insights bot
+- ✈️ [**Travel Journal**](https://github.com/ravi-n/Travel-Journal) – Minimalist app for capturing travel adventures
 
 ---
 
-### 📊 GitHub Stats
+### ⚙️ Tech Stack & Tools
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravi-n&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=ravi-n&theme=radical)](https://git.io/streak-stats)
-
----
-
-### ✍️ Quote I Like
-
-> “First, solve the problem. Then, write the code.” – John Johnson
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+</p>
 
 ---
 
-<!-- Snake Contribution Graph (optional) -->
-<!-- ![Snake animation](https://github.com/ravi-n/ravi-n/blob/output/github-contribution-grid-snake.svg) -->
+### 📈 Code Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravi-n&show_icons=true&theme=monokai&hide_border=true" alt="Ravi's GitHub Stats" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=ravi-n&theme=monokai&hide_border=true" alt="GitHub Streak" width="400"/>
+</p>
+
+---
+
+### 💡 Code Mantra
+
+> “Code is poetry; debug with purpose, deploy with pride.” – Inspired by Ravi N
+
+---
+
+### 🌐 Let’s Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/ravi-n/ravi-n/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph"/>
+</p>
+
+<p align="center">
+  <em>Building the future, one line of code at a time. 🚀</em>
+</p>
