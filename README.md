@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Greetings, I'm Ravi N! 👨‍💻</h1>
+<h1 align="center">🚀 Greetings, I'm Ravi ! 👨‍💻</h1>
 <h3 align="center">Crafting Code with Java & MERN | Exploring the AI Frontier</h3>
 
 ---
@@ -6,7 +6,7 @@
 ### 🌌 My Coding Universe
 
 🔧 **Current Missions**:
-- 🛠️ Upgrading **Swatchh Dashboard 2.0** to revolutionize waste management
+- 🛠️ Working on **Intellica** to revolutionize a next level in Knowledge 
 - 🤖 Diving deep into **AI/ML** and mastering **DevOps** workflows
 
 📚 **Knowledge Quest**:
@@ -67,7 +67,7 @@
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.ravi.spartan007.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
