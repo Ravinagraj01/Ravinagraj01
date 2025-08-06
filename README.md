@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif" alt="Tech Matrix" width="300"/>
-</p>
-
 <h1 align="center">🚀 Greetings, I'm Ravi N! 👨‍💻</h1>
 <h3 align="center">Crafting Code with Java & MERN | Exploring the AI Frontier</h3>
 
