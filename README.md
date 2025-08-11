@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Greetings, I'm Ravi ! 👨‍💻</h1>
+<h1 align="center">Greetings, I'm Ravi !</h1>
 <h3 align="center">Crafting Code with Java & MERN | Exploring the AI Frontier</h3>
 
 ---
