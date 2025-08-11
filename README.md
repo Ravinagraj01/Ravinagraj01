@@ -21,7 +21,7 @@
 
 ### 🌟 Stellar Projects
 
-- 🌍 [**Swatchh Dashboard 2.0**](https://github.com/ravi-n/Swatchh_Dashboard_2.0) – A smart, JS-powered waste management dashboard
+- 🌍 [**Swatchh Dashboard 3.0**](https://github.com/ravi-n/Swatchh_Dashboard_3.0) – A smart, JS-powered waste management dashboard
 - 📊 [**Voyage_DBMS**](https://github.com/ravi-n/Voyage_DBMS) – Robust database system built with PHP & MySQL
 - 🛒 [**bookStore-App**](https://github.com/ravi-n/bookStore-App) – Dynamic e-commerce platform using JavaScript
 - 🤖 [**AI Trading Chat Bot**](https://github.com/ravi-n/AI-Trading-Chat-Bot) – AI-driven stock market insights bot
