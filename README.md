@@ -46,20 +46,6 @@
 
 ---
 
-### 📈 Code Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravi-n&show_icons=true&theme=monokai&hide_border=true" alt="Ravi's GitHub Stats" width="400"/>
-</p>
-
----
-
-### 💡 Code Mantra
-
-> “Code is poetry; debug with purpose, deploy with pride.” – Inspired by Ravi N
-
----
-
 ### 🌐 Let’s Connect!
 
 <p align="center">
